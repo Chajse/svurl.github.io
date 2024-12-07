@@ -64,7 +64,7 @@
             id="customUrlName"
             bind:value={customUrlName}
             class="mb-4 p-2 border rounded-lg w-full text-gray-900"
-            placeholder= "Enter custom URL name (optional)"
+            placeholder= "Enter custom URL name (optional))"
           />
       </div>
       <div class="button-container">
